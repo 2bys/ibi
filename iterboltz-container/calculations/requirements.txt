@@ -1,0 +1,6 @@
+rdfpy
+scipy
+numpy
+rpy2
+matplotlib
+configparser
